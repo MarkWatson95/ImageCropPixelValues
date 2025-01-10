@@ -1,5 +1,5 @@
 # ImageCropPixelValues
-Mouse select sections of an image, instantly sending the values of the crop region in pixels, using XML format. 
+Mouse select sections of an image, instantly sending the values of the crop region in pixels to the clipboard, using XML format. 
 
 
 This program is designed to calculate the position, height, and width of rectangles drawn on an image using the mouse. 
